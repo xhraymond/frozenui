@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T07:41:17.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="6HdO3VDrlG-q3xsnpD0F" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-16T07:44:39.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Ytd0nf0XsCtQjXCBFa4p" version="14.6.1" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="946" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,8 +143,8 @@
         <mxCell id="6QXbl8-JqovH2AHmUqRH-51" value="Warehouse management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
           <mxGeometry x="695" y="840" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6QXbl8-JqovH2AHmUqRH-52" value="&lt;div&gt;1.Administer verify the quantity of the goods&lt;/div&gt;&lt;div&gt;2.Create the invoice of warehouse&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; management in the scm system&lt;/div&gt;&lt;div&gt;3.Data synchronization from SCM system&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; to ERP system&lt;/div&gt;&lt;div&gt;4.The robot completes the warehousing operation&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;through the action command&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="925" y="855" width="280" height="100" as="geometry" />
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-52" value="&lt;div&gt;1.Administer verify the quantity of the goods&lt;/div&gt;&lt;div&gt;2.Create the invoice of warehouse&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; management in the scm system&lt;/div&gt;&lt;div&gt;3.Data synchronization from SCM system&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; to ERP system&lt;/div&gt;&lt;div&gt;4.The robot completes the warehouse management&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; operation&amp;nbsp;&lt;span&gt;through the action command&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="925" y="855" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/check-mark-128.png;rounded=0;strokeColor=#DAE8FC;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
           <mxGeometry x="901" y="855" width="18" height="18" as="geometry" />
@@ -160,6 +160,21 @@
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-62" value="&lt;font color=&quot;#000000&quot;&gt;Report&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FF370F;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
           <mxGeometry x="115" y="930" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-63" value="&lt;div&gt;1.Administer verify the quantity of the goods&lt;/div&gt;&lt;div&gt;2.Create the invoice of warehouse&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; management in the scm system&lt;/div&gt;&lt;div&gt;3.Data synchronization from SCM system&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; to ERP system&lt;/div&gt;&lt;div&gt;4.The robot completes the outbound operation&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;through the action command&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="939.5" y="1020" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/check-mark-128.png;rounded=0;strokeColor=#DAE8FC;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="915.5" y="1020" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/check-mark-128.png;rounded=0;strokeColor=#DAE8FC;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="917.5" y="1035" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/check-mark-128.png;rounded=0;strokeColor=#DAE8FC;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="915.5" y="1061.5" width="19.5" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/check-mark-128.png;rounded=0;strokeColor=#DAE8FC;fontColor=#FF370F;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="915.5" y="1095" width="18" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
