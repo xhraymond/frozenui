@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T06:49:24.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="x2AUierN1jGkRKj0YFBe" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-16T07:20:07.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="80hUz7fBdvE8gwS1pXij" version="14.6.1" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="946" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,20 +44,89 @@
       <root>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-0" />
         <mxCell id="6QXbl8-JqovH2AHmUqRH-1" parent="6QXbl8-JqovH2AHmUqRH-0" />
-        <mxCell id="6QXbl8-JqovH2AHmUqRH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="120" y="870" width="290" height="40" as="geometry" />
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Dispatch center&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="720" y="600" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/android-128.png" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="320" y="970" width="58" height="58" as="geometry" />
+          <mxGeometry x="930" y="713" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="280" y="991.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="890" y="734.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-7" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="210" y="974" width="50" height="50" as="geometry" />
+          <mxGeometry x="820" y="717" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-8" value="InBound" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="130" y="950" width="60" height="20" as="geometry" />
+          <mxGeometry x="740" y="693" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/android-128.png" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="310" y="1130" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="270" y="1151.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-11" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="200" y="1134" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-12" value="warehouse management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="75" y="1110" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/android-128.png" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="313.5" y="1270" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="273.5" y="1291.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-15" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="203.5" y="1274" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-16" value="OutBound" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="118.5" y="1250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/66-128.png" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="600" y="1210.5" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-19" value="Administrators can compare SCM and ERP inventory, &lt;br&gt;and virtual inventory can realize the difference of actual inventory" style="text;align=center;width:400px;&#xa;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;resizeWidth=0;imageAspect=0;html=1;rounded=0;imageWidth=24;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="600" y="1166.5" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-456/500/business-strategy-128.png;rounded=0;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="540" y="1210.5" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-25" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SchedulerJobCollection.svg;rounded=0;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="172.5" y="650" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/fatcow/32x32/role.png;rounded=0;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="329.5" y="760" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-27" value="Mail" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.mail;rounded=0;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="170" y="764" width="55" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-28" value="Synchronize purchase Order data &lt;br&gt;and ERP data to SCM system on time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="265" y="650" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-31" value="" style="endArrow=open;endSize=12;dashed=1;html=1;strokeColor=#636363;strokeWidth=2;" edge="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="781" as="sourcePoint" />
+            <mxPoint x="323.5" y="781" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-32" value="" style="endArrow=open;endSize=12;dashed=1;html=1;strokeColor=#636363;strokeWidth=2;" edge="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="700" as="sourcePoint" />
+            <mxPoint x="200" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-33" value="Inform the warehouse administrator &lt;br&gt;by emailto prepare for &lt;br&gt;unpacking and Inbound" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="403" y="752" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-34" value="Collection Centor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="120" y="600" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-35" value="&lt;font color=&quot;#ffffff&quot;&gt;Dispatch center&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="470" y="1290" width="467.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/coronavirus-covid-19-4/57/Scan-128.png;rounded=0;strokeColor=#DAE8FC;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="368" y="762" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
