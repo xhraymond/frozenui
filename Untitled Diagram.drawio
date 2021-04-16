@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T07:20:07.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="80hUz7fBdvE8gwS1pXij" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-16T07:27:32.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="KR9j6hflQ8Iemn3WZ9nx" version="14.6.1" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="946" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,16 +48,16 @@
           <mxGeometry x="720" y="600" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/android-128.png" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="930" y="713" width="58" height="58" as="geometry" />
+          <mxGeometry x="840" y="694" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="890" y="734.5" width="15" height="15" as="geometry" />
+          <mxGeometry x="810" y="715.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-7" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="820" y="717" width="50" height="50" as="geometry" />
+          <mxGeometry x="740" y="698" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-8" value="InBound" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
-          <mxGeometry x="740" y="693" width="60" height="20" as="geometry" />
+          <mxGeometry x="740" y="655" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/android-128.png" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
           <mxGeometry x="310" y="1130" width="58" height="58" as="geometry" />
@@ -127,6 +127,9 @@
         </mxCell>
         <mxCell id="6QXbl8-JqovH2AHmUqRH-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/coronavirus-covid-19-4/57/Scan-128.png;rounded=0;strokeColor=#DAE8FC;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
           <mxGeometry x="368" y="762" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6QXbl8-JqovH2AHmUqRH-37" value="&lt;div&gt;1.Administer verify the quality of the goods&lt;/div&gt;&lt;div&gt;2.Data synchronization from SCM system&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; to ERP system&lt;/div&gt;&lt;div&gt;3.The robot completes the warehousing operation&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;through the action command&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6QXbl8-JqovH2AHmUqRH-1">
+          <mxGeometry x="920" y="684" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
