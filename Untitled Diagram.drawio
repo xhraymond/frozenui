@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T17:07:09.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Iy7yqaxb-FF0Fk4ib31d" version="14.6.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-17T17:08:15.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="yCm6tY6nuyCnQViwSsxb" version="14.6.1" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ooTw6rpRoPq4D8pBAmEs" name="Page-5">
-    <mxGraphModel dx="2365" dy="1210" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3495" dy="1295" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="I4mXLXJWD81yjLPcbJNx-0" />
         <mxCell id="I4mXLXJWD81yjLPcbJNx-1" parent="I4mXLXJWD81yjLPcbJNx-0" />
@@ -658,8 +658,8 @@
         <mxCell id="I4mXLXJWD81yjLPcbJNx-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;strokeWidth=4;fillColor=none;dashed=1;strokeColor=#666666;" vertex="1" parent="I4mXLXJWD81yjLPcbJNx-1">
           <mxGeometry x="1815" y="2014" width="175" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="I4mXLXJWD81yjLPcbJNx-60" value="Master data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="I4mXLXJWD81yjLPcbJNx-1">
-          <mxGeometry x="1849" y="2143" width="116" height="28" as="geometry" />
+        <mxCell id="I4mXLXJWD81yjLPcbJNx-60" value="Date Exchange" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="I4mXLXJWD81yjLPcbJNx-1">
+          <mxGeometry x="1834" y="2143" width="147" height="28" as="geometry" />
         </mxCell>
         <mxCell id="I4mXLXJWD81yjLPcbJNx-61" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/app_server.svg;strokeColor=#666666;strokeWidth=4;fillColor=none;" vertex="1" parent="I4mXLXJWD81yjLPcbJNx-1">
           <mxGeometry x="1872.5" y="2068.5" width="60" height="60" as="geometry" />
@@ -752,7 +752,7 @@
           <mxGeometry x="729" y="1474" width="553" height="32" as="geometry" />
         </mxCell>
         <mxCell id="I4mXLXJWD81yjLPcbJNx-90" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeWidth=1;fillColor=none;strokeColor=#99CCFF;" vertex="1" parent="I4mXLXJWD81yjLPcbJNx-1">
-          <mxGeometry x="584" y="1411" width="2087" height="1172" as="geometry" />
+          <mxGeometry x="584" y="1411" width="2057" height="1170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
